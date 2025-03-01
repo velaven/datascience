@@ -1,4 +1,5 @@
 class Univariate():
+    
     def quanQual(dataset):
         quan=[]
         qual=[]
