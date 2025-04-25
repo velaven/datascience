@@ -1,0 +1,27 @@
+1. shape(0)-rows
+   shape(1)-columns
+univariate:
+distplot=bin shape-histogram Histogram=frequency and how many times repeated
+40-45, 45-50,range
+redline-density
+Bivariate:
+joint plot-xaxis-10th pass mark,yaxis-salary
+plot-scatter plot and histogram with repect to x and y
+use-jointplot
+kind-hex-heatmap-large quantity referes dark color
+light color-not repeatition
+kde-kernel density estimation
+pairplot-hue-differentiate gender
+   diag-kind-histogram
+   kde-kind-scatter
+seaborn-itself take x,y axis
+kde-ssc  vs ssc plot-not scatter ie same vs same-find patteren
+strip plot:
+categorical vs quantitative data got strip plot
+swarm plot: similar to strip plot but the points are adjusted(along the categorical axis) so that they donot overlap
+this gives a better representation of thedistribution of values,but it does not scale well to large number of observations.its also called beeswarm.its good compliment tobox or violin plot in cases where you want to show all observations along with some representationof the underlying distribution
+Distribution plot: Violin plot-x axis -categorical ,y axis -quantitative
+                   doesnot find gender only find Male candidate density peak separately
+box plot-percentile concept-find Q1,Q2,Q3,Q4 and IQR lesser higher range of outliers
+point plot-represents an estimation of central tendency for numeric variable by the position of the dot and provides some indication of the uncertainity around that estimate using error bars
+more useful for focusing comparision between different levels of one or more categorical variables
